@@ -47,23 +47,9 @@ https://github.com/Abas-Aqil/blog-preview-card
 
 ## 🏆 Frontend Mentor Solution
 
-Add your Frontend Mentor solution link here after submitting:
-
-```
 https://www.frontendmentor.io/solutions/your-solution-link
-```
 
----
 
-## 📸 Screenshot
-
-Add your project screenshot here:
-
-```
-assets/images/screenshot.png
-```
-
----
 
 ## 👤 Author
 
