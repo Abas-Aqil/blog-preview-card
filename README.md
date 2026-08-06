@@ -47,7 +47,7 @@ https://github.com/Abas-Aqil/blog-preview-card
 
 ## 🏆 Frontend Mentor Solution
 
-https://www.frontendmentor.io/solutions/blog-preview-card-iH573S_rX8
+https://www.frontendmentor.io/solutions/resposive-blog-preview-card-zjgtV8aJwl
 
 
 
